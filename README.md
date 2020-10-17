@@ -1,2 +1,2 @@
 # DifferentialEquations
-Solving DiffEq
+Using Matlab to solve and visualize differential equations
